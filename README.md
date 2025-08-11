@@ -51,7 +51,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso.
 
 ## Conecte-se comigo
 
-<a href="[https://www.linkedin.com/in/[seu-linkedin]](https://www.linkedin.com/in/clara-carvalho-9990011b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
+<a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/clara-carvalho-9990011b4/)" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:claracarvalho.contato@gmail.com">
