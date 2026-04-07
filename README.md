@@ -2,7 +2,7 @@
 
 - 🎓 Software Engineering Student 
 - 💻 Software Developer 
-- 📍 Residindo em Ceará-Mirim/RN
+- 📍 Residindo em Parnamirim/RN
 
 ---
 
